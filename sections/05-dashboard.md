@@ -1,4 +1,4 @@
-## 📊 by the numbers
+<h2 align="center">📊 By the Numbers</h2>
 
 <!-- These cards pull REAL data from GitHub automatically — no invented numbers.
      Sunset palette applied via the color params. -->
@@ -23,4 +23,4 @@
   | TODO | TODO | TODO | TODO |
 -->
 
-<sub>Hard signal, right before the playful finale — so the last serious thing a recruiter sees is real numbers, not toys.</sub>
+<p align="center"><sub>Hard signal, right before the playful finale — so the last serious thing a recruiter sees is real numbers, not toys.</sub></p>

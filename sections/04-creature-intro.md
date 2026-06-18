@@ -1,6 +1,7 @@
-## 🐠 the creature lab
+<h2 align="center">🐠 The Creature Lab</h2>
 
-Help me build a sea creature — **vote one feature each visit** and the community
-assembles it together, one round at a time (body → tail → color → eyes →
-accessory). When it's finished it swims off into the [scrapbook](scrapbook/SCRAPBOOK.md#creatures)
-and a fresh one hatches.
+<div align="center">
+
+Help me build a sea creature — <b>vote one feature each visit</b> and the community assembles it together, one round at a time (body → tail → color → eyes → accessory). When it's finished it swims off into the <a href="scrapbook/SCRAPBOOK.md#creatures">scrapbook</a> and a fresh one hatches.
+
+</div>
