@@ -1,13 +1,32 @@
 {
   "round": "body",
   "features": {
-    "body":      {"votes": {}},
-    "tail":      {"votes": {}},
-    "color":     {"votes": {}},
-    "eyes":      {"votes": {}},
-    "accessory": {"votes": {}}
+    "body": {
+      "votes": {
+        "seahorse": 1
+      }
+    },
+    "tail": {
+      "votes": {}
+    },
+    "color": {
+      "votes": {}
+    },
+    "eyes": {
+      "votes": {}
+    },
+    "accessory": {
+      "votes": {}
+    }
   },
-  "voters": {},
+  "voters": {
+    "body": [
+      "frankiehope333-ctrl"
+    ]
+  },
   "history": [],
-  "started": null
+  "started": null,
+  "voter_counts": {
+    "frankiehope333-ctrl": 1
+  }
 }
