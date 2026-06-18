@@ -1,19 +1,22 @@
-# 🌙 the deep dive · *I work alone*
+<h1 align="center">🌙 the deep dive · <i>I work alone</i></h1>
 
 <!-- 🎨 ART: assets/adventure/alone-early.png — Marlowe doing her rounds, glancing back, orchid water. -->
-> *🌀 The same reef. The same rounds. Familiar, and a little heavier today.*
 
-She waves Cass off, proud, and does her rounds the way she always has. But she
-keeps thinking about how *effortlessly* that diver moved down there — no fighting
-the water, just gear that fit and a body that trusted it.
+<p align="center"><i>🌀 The same reef. The same rounds. Familiar, and a little heavier today.</i></p>
 
-Here's the honest beat: watching someone with the right tools makes you wonder
-why you're still doing it the hard way.
+<div align="center">
 
-**What does Marlowe do?**
+She waves Cass off, proud, and does her rounds the way she always has. But she keeps thinking about how <i>effortlessly</i> that diver moved down there — no fighting the water, just gear that fit and a body that trusted it.
 
-- 🔁 [**Go find her again**](together.md) — maybe it's not weakness to ask
-- 🌊 [**Dive solo anyway**](deep.md) — she's come this far on her own
+Here's the honest beat: watching someone with the right tools makes you wonder why you're still doing it the hard way.
+
+<b>What does Marlowe do?</b>
+
+🔁 <a href="together.md"><b>Go find her again</b></a> — maybe it's not weakness to ask<br>
+🌊 <a href="deep.md"><b>Dive solo anyway</b></a> — she's come this far on her own
+
+</div>
 
 ---
-<sub>↩ [back to the start](../../README.md)</sub>
+
+<p align="center"><sub>↩ <a href="../../README.md">back to the start</a></sub></p>
