@@ -1,6 +1,6 @@
 <h1 align="center">🌙 the deep dive · <i>alone at the chest</i></h1>
 
-<p align="center"><img src="../../assets/adventure/alone.png" width="600" alt="Pixel-art scene: Marlowe straining alone at the treasure chest; Cass nearby, offering a hand."></p>
+<p align="center"><img src="../../assets/adventure/alone.gif" width="600" alt="Pixel-art scene: Marlowe straining alone at the treasure chest; Cass nearby, offering a hand."></p>
 
 <p align="center"><i>🌑 The chest, finally. And the lid won't give.</i></p>
 

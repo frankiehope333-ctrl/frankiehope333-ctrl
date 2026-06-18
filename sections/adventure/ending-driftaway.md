@@ -1,6 +1,6 @@
 <h1 align="center">🌙 the deep dive · <i>the same reef, forever</i></h1>
 
-<p align="center"><img src="../../assets/adventure/ending-driftaway.png" width="600" alt="Pixel-art scene: Marlowe swimming small at the unchanged reef, the glint fading."></p>
+<p align="center"><img src="../../assets/adventure/ending-driftaway.gif" width="600" alt="Pixel-art scene: Marlowe swimming small at the unchanged reef, the glint fading."></p>
 
 <p align="center"><i>🌅 The same currents. The same rounds. Nothing lost, and nothing gained.</i></p>
 

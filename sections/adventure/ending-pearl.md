@@ -1,6 +1,6 @@
 <h1 align="center">🌙 the deep dive · <i>the pearl</i> 🪙</h1>
 
-<p align="center"><img src="../../assets/adventure/ending-pearl.png" width="600" alt="Pixel-art scene: the chest open with a glowing pearl, Marlowe joyful, Cass beside her, warm light."></p>
+<p align="center"><img src="../../assets/adventure/ending-pearl.gif" width="600" alt="Pixel-art scene: the chest open with a glowing pearl, Marlowe joyful, Cass beside her, warm light."></p>
 
 <p align="center"><i>🌅 Warm light, this deep. The lid lifts easy with two sets of hands.</i></p>
 

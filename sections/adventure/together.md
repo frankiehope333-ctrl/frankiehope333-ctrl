@@ -1,6 +1,6 @@
 <h1 align="center">🌙 the deep dive · <i>together</i></h1>
 
-<p align="center"><img src="../../assets/adventure/together.png" width="600" alt="Pixel-art scene: Marlowe and Cass descending together, helper creatures lighting the way, warm light breaking the dark."></p>
+<p align="center"><img src="../../assets/adventure/together.gif" width="600" alt="Pixel-art scene: Marlowe and Cass descending together, helper creatures lighting the way, warm light breaking the dark."></p>
 
 <p align="center"><i>🌇 Strange thing: the deeper they go, the warmer the light gets. Sunset, breaking through.</i></p>
 

@@ -1,6 +1,6 @@
 <h1 align="center">🌙 the deep dive · <i>the descent</i></h1>
 
-<p align="center"><img src="../../assets/adventure/deep.png" width="600" alt="Pixel-art scene: Marlowe reaching into the deep; a glowing lantern-fish and a ferrying ray offer help."></p>
+<p align="center"><img src="../../assets/adventure/deep.gif" width="600" alt="Pixel-art scene: Marlowe reaching into the deep; a glowing lantern-fish and a ferrying ray offer help."></p>
 
 <p align="center"><i>🌑 Down where the light gives out. Plum dark. The pressure presses back.</i></p>
 

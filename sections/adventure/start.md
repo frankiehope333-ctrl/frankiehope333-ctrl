@@ -1,6 +1,6 @@
 <h2 align="center">🌙 The Deep Dive — An Interactive Story</h2>
 
-<p align="center"><img src="assets/adventure/start.png" width="600" alt="Pixel-art scene: Marlowe at the sunset surface, hauling her net of fish, a glint far below."></p>
+<p align="center"><img src="assets/adventure/start.gif" width="600" alt="Pixel-art scene: Marlowe at the sunset surface, hauling her net of fish, a glint far below."></p>
 
 <p align="center"><i>🌅 The surface. Peach light on the water. Marlowe floats with the day's catch.</i></p>
 

@@ -1,6 +1,6 @@
 <h1 align="center">🌙 the deep dive · <i>meeting Cass</i></h1>
 
-<p align="center"><img src="../../assets/adventure/meet.png" width="600" alt="Pixel-art scene: Marlowe meets Cass, a blonde-ponytail scuba diver, underwater."></p>
+<p align="center"><img src="../../assets/adventure/meet.gif" width="600" alt="Pixel-art scene: Marlowe meets Cass, a blonde-ponytail scuba diver, underwater."></p>
 
 <p align="center"><i>🌊 A little deeper. The water cools to orchid. A shape, finned and goofy and grinning.</i></p>
 

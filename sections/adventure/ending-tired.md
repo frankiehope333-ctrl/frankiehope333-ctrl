@@ -1,6 +1,6 @@
 <h1 align="center">🌙 the deep dive · <i>the long way down</i> 🪙</h1>
 
-<p align="center"><img src="../../assets/adventure/ending-tired.png" width="600" alt="Pixel-art scene: Marlowe weary at the open chest with a dull pearl; Cass drifting away in the distance."></p>
+<p align="center"><img src="../../assets/adventure/ending-tired.gif" width="600" alt="Pixel-art scene: Marlowe weary at the open chest with a dull pearl; Cass drifting away in the distance."></p>
 
 <p align="center"><i>🌑 She gets it open. Alone. And she's too worn out to enjoy it.</i></p>
 
