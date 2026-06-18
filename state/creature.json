@@ -1,0 +1,13 @@
+{
+  "round": "body",
+  "features": {
+    "body":      {"votes": {}},
+    "tail":      {"votes": {}},
+    "color":     {"votes": {}},
+    "eyes":      {"votes": {}},
+    "accessory": {"votes": {}}
+  },
+  "voters": {},
+  "history": [],
+  "started": null
+}

@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+render/_sprite_test.gif
+assets/.banner_raw.png

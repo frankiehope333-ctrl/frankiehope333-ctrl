@@ -1,0 +1,50 @@
+name: 🎮 on-issue — route game actions
+
+# Routes incoming issues to the right handler by title prefix:
+#   bottle|*    -> handlers/bottle.py      (guestbook)
+#   creature|*  -> handlers/creature.py    (community creature votes)
+# The handler parses the full event from GITHUB_EVENT_PATH (no shell interpolation
+# of attacker-controlled text), mutates state, rebuilds README + scrapbook, and
+# comments/labels/closes the issue. This workflow commits the file changes.
+
+on:
+  issues:
+    types: [opened, labeled]   # 'labeled' re-triggers when the owner adds `approved`
+
+permissions:
+  issues: write
+  contents: write
+
+concurrency:
+  group: on-issue              # serialize so concurrent votes don't race the JSON state
+  cancel-in-progress: false
+
+jobs:
+  route:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Route to handler
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}   # via env, never inlined into the script
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          case "$ISSUE_TITLE" in
+            bottle\|*)   python handlers/bottle.py ;;
+            creature\|*) python handlers/creature.py ;;
+            *) echo "No handler for title: $ISSUE_TITLE" ;;
+          esac
+
+      - name: Commit any state changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🎮 ${{ github.event.issue.title }} (#${{ github.event.issue.number }})"
+          file_pattern: "README.md render/creature.gif state/** scrapbook/**"

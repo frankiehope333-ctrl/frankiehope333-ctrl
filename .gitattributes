@@ -1,0 +1,8 @@
+# Normalize all text to LF in the repo (and on checkout), so the GitHub Actions
+# Linux runners get clean line endings — important for the shell + Python heredoc
+# inside the workflow YAML. Images are binary and must never be touched.
+* text=auto eol=lf
+*.png binary
+*.gif binary
+*.ttf binary
+*.webp binary

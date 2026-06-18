@@ -1,0 +1,71 @@
+name: 🌊 tides — daily reef sync
+
+# Grows the reef from my real contributions once a day, snapshots to the
+# scrapbook at month-end / cap, re-renders reef.gif, rebuilds the README.
+# See BUILD.md §5 and PROFILE-SPEC GAME 1 for the exact daily run order.
+
+on:
+  schedule:
+    - cron: "0 6 * * *"        # daily 06:00 UTC  (config.REEF_CRON)
+  workflow_dispatch: {}         # lets you run it by hand from the Actions tab
+
+# The built-in GITHUB_TOKEN only needs to write commits back. No PAT required —
+# a token reading your own PUBLIC contribution count is enough (BUILD.md §5.3).
+permissions:
+  contents: write
+
+concurrency:
+  group: tides
+  cancel-in-progress: false
+
+jobs:
+  tide:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run the daily tide
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python - <<'PY'
+          import os, sys
+          from datetime import datetime, timezone
+          sys.path.insert(0, "render")
+          import reef_gif
+          import build_readme
+
+          token = os.environ["GITHUB_TOKEN"]
+          day = datetime.now(timezone.utc).date().isoformat()
+
+          n = reef_gif.fetch_contributions(day, token)
+          before = len(reef_gif._load(reef_gif.STATE, {"creatures": []}).get("creatures", []))
+          reef = reef_gif.daily_tide(n, day)
+          after = len(reef.get("creatures", []))
+          reef_gif.render_reef(reef)
+          build_readme.main()
+
+          delta = after - before
+          if delta > 0:
+              msg = f"🌊 tide: +{delta} (reef now {after}, {n} contributions today)"
+          elif delta < 0:
+              msg = f"🌊 tide: reef snapshotted to scrapbook ({n} contributions today)"
+          else:
+              msg = f"🌊 tide: gentle sway ({n} contributions today)"
+          with open(os.environ["GITHUB_ENV"], "a") as f:
+              f.write(f"TIDE_MSG={msg}\n")
+          print(msg)
+          PY
+
+      - name: Commit the new tide
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: ${{ env.TIDE_MSG }}
+          file_pattern: "README.md render/reef.gif state/reef.json scrapbook/**"
