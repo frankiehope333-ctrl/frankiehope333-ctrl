@@ -1,4 +1,12 @@
 {
-  "last_synced": null,
-  "creatures": []
+  "last_synced": "2026-06-18",
+  "creatures": [
+    {
+      "type": "fish",
+      "born": "2026-06-18",
+      "x": 11,
+      "y": 30
+    }
+  ],
+  "contrib_total": 1
 }

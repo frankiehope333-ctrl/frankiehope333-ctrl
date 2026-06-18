@@ -33,7 +33,7 @@ can't afford a McKinsey deck.
 
 <img src="render/reef.gif" alt="frankie's reef — a pixel-art sunset lagoon that grows with my commits" width="560">
 
-🪸 *This reef grows when I ship. Last tide: — · this is reef #1.*
+🪸 *This reef grows when I ship. Last tide: 2026-06-18 · this is reef #1.*
 
 ---
 
