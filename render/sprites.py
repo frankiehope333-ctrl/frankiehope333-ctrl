@@ -28,6 +28,13 @@ PALETTE = {
     "ember":   "#FF7B2E",  # CLEAVE Ember — sun core, ties to brand
     "peach":   "#FFB26B",  # water shimmer, soft fills
     "cream":   "#F5EFE8",  # text, foam, UI card face
+    # --- Marlowe (story panels) ---
+    "pastelpink":  "#FFC2DE",  # Marlowe's Afro (signature)
+    "pinkshadow":  "#E89BBF",  # Afro shadow edge
+    "brown":       "#7A4A32",  # Marlowe's skin midtone
+    "brownshadow": "#5C3322",  # skin shadow
+    "brownhi":     "#9E6347",  # skin highlight
+    "blonde":      "#F2D27A",  # Cass's ponytail
 }
 
 # Convenience RGB tuples.

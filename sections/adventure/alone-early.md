@@ -1,6 +1,6 @@
 <h1 align="center">🌙 the deep dive · <i>I work alone</i></h1>
 
-<!-- 🎨 ART: assets/adventure/alone-early.png — Marlowe doing her rounds, glancing back, orchid water. -->
+<p align="center"><img src="../../assets/adventure/alone-early.png" width="600" alt="Pixel-art scene: Marlowe back at her reef, glancing after Cass swimming away."></p>
 
 <p align="center"><i>🌀 The same reef. The same rounds. Familiar, and a little heavier today.</i></p>
 
