@@ -14,17 +14,11 @@
 
 <h2 align="center">🌊 Howdy, I'm Frankie!</h2>
 
-<div align="center">
-
 <b>TL;DR:</b><br>
 🔥 Spent 10+ yrs putting out Fortune 500 project fires (Southwest, GameStop, Harley-Davidson)<br>
 🤖 Now I build AI automation for small businesses that were told they're too small to afford it<br>
 🧜🏾‍♀️ Founder of CLEAVE · architect of CLARA · one-woman agency run entirely on tools I built<br>
 ✨ Vibe-coder, systems designer, shameless Claude superfan
-
-</div>
-
-<div align="center">
 
 For over a decade I was the person Fortune 500 companies called when their projects were quietly on fire. I climbed through the SDLC doing enterprise process improvement and Agile delivery — a decade-long master class in how giant companies achieve operational efficiency. The thing nobody says out loud: small businesses need the exact same thing, they just can't afford the consultants, software, or overhead. AI changed that math. So I left to do something about it.
 
@@ -33,8 +27,6 @@ That's CLEAVE — enterprise-grade operations and AI automation for businesses t
 Heard of vibe coding? I'm not a traditional software engineer — I architect the system, make the design calls, and direct the build end to end. CLARA is the proof: it fixes the three things that quietly break most AI deployments (goldfish-memory sessions, bloated context, over-permissioned AI) and drops session-start cost from ~30,000–42,000 tokens to roughly 800 — no server, no database, no subscription beyond the LLM. I built it to run CLEAVE. It runs CLEAVE.
 
 Some of this profile is serious infrastructure. Some of it is a mermaid. Both are on purpose. 🧜🏾‍♀️
-
-</div>
 
 ---
 
@@ -74,18 +66,16 @@ Some of this profile is serious infrastructure. Some of it is a mermaid. Both ar
 
 <h2 align="center">⚙️ What I'm Building</h2>
 
-<div align="center">
+🎬 **CLEAVE Content Engine** — a structured AI content pipeline with a single
+human approval gate, so output stays on-brand without a human babysitting every step.
 
-🎬 <b>CLEAVE Content Engine</b> — a structured AI content pipeline with a single human approval gate, so output stays on-brand without a human babysitting every step.
+🧲 **Lead-gen widget service** — an embeddable, multi-tenant widget for Coastal
+Bend SMBs to capture and qualify leads without a marketing team.
 
-🧲 <b>Lead-gen widget service</b> — an embeddable, multi-tenant widget for Coastal Bend SMBs to capture and qualify leads without a marketing team.
+📦 **Productized offers** — Ops Leak Audit · BPMN Kit · SOP Starter · AI Workbook.
+Fixed-scope, fixed-price ways to start.
 
-📦 <b>Productized offers</b> — Ops Leak Audit · BPMN Kit · SOP Starter · AI Workbook. Fixed-scope, fixed-price ways to start.
-
-<sub>🔗 each links to its repo or one-pager →
-<!-- TODO: confirm — link each project to its repo/one-pager when public. --></sub>
-
-</div>
+<!-- TODO: confirm — link each project to its repo/one-pager when public. -->
 
 ---
 
@@ -118,15 +108,15 @@ Help me build a sea creature — <b>vote one feature each visit</b> and the comm
 <h2 align="center">📊 By the Numbers</h2>
 
 <!-- These cards pull REAL data from GitHub automatically — no invented numbers.
-     Sunset palette applied via the color params. -->
+     bg_color uses the gradient form "angle,color,color,color" (purple→pink→coral). -->
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=frankiehope333-ctrl&show_icons=true&hide_border=true&bg_color=2A1B3D&title_color=FF7B2E&text_color=F5EFE8&icon_color=FF7AA2" alt="Frankie's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankiehope333-ctrl&layout=compact&hide_border=true&bg_color=2A1B3D&title_color=FF7B2E&text_color=F5EFE8" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=frankiehope333-ctrl&show_icons=true&hide_border=true&bg_color=135,6A2C70,E84393,FF7AA2&title_color=FFB26B&text_color=F5EFE8&icon_color=F5EFE8" alt="Frankie's GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankiehope333-ctrl&layout=compact&hide_border=true&bg_color=135,6A2C70,E84393,FF7AA2&title_color=FFB26B&text_color=F5EFE8" alt="Top languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frankiehope333-ctrl&hide_border=true&background=2A1B3D&stroke=A64C9E&ring=FF7B2E&fire=E84393&currStreakLabel=FFB26B&sideLabels=F5EFE8&dates=8b949e&currStreakNum=F5EFE8&sideNums=F5EFE8" alt="Contribution streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frankiehope333-ctrl&hide_border=true&background=135,6A2C70,E84393,FF7AA2&stroke=FFB26B&ring=FF7B2E&fire=F5EFE8&currStreakLabel=FFB26B&sideLabels=F5EFE8&dates=F5EFE8&currStreakNum=F5EFE8&sideNums=F5EFE8" alt="Contribution streak">
 </p>
 
 <!--
@@ -139,8 +129,6 @@ Help me build a sea creature — <b>vote one feature each visit</b> and the comm
   |:---:|:---:|:---:|:---:|
   | TODO | TODO | TODO | TODO |
 -->
-
-<p align="center"><sub>Hard signal, right before the playful finale — so the last serious thing a recruiter sees is real numbers, not toys.</sub></p>
 
 ---
 
