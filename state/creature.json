@@ -3,7 +3,8 @@
   "features": {
     "body": {
       "votes": {
-        "seahorse": 1
+        "seahorse": 1,
+        "jellyfish": 1
       }
     },
     "tail": {
@@ -21,12 +22,14 @@
   },
   "voters": {
     "body": [
-      "frankiehope333-ctrl"
+      "frankiehope333-ctrl",
+      "jessicaghope-byte"
     ]
   },
   "history": [],
   "started": null,
   "voter_counts": {
-    "frankiehope333-ctrl": 1
+    "frankiehope333-ctrl": 1,
+    "jessicaghope-byte": 1
   }
 }

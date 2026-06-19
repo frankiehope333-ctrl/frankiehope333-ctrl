@@ -94,7 +94,7 @@ Help me build a sea creature — <b>vote one feature each visit</b> and the comm
 
 <b>This round we're picking the <code>body</code></b> (round 1 of 5). Vote one feature per visit:
 
-[🗳️ seahorse — 1 votes ·lead](https://github.com/frankiehope333-ctrl/frankiehope333-ctrl/issues/new?title=creature%7Cvote%7Cbody%7Cseahorse) · [🗳️ jellyfish — 0 votes](https://github.com/frankiehope333-ctrl/frankiehope333-ctrl/issues/new?title=creature%7Cvote%7Cbody%7Cjellyfish) · [🗳️ eel — 0 votes](https://github.com/frankiehope333-ctrl/frankiehope333-ctrl/issues/new?title=creature%7Cvote%7Cbody%7Ceel)
+[🗳️ seahorse — 1 votes ·lead](https://github.com/frankiehope333-ctrl/frankiehope333-ctrl/issues/new?title=creature%7Cvote%7Cbody%7Cseahorse) · [🗳️ jellyfish — 1 votes](https://github.com/frankiehope333-ctrl/frankiehope333-ctrl/issues/new?title=creature%7Cvote%7Cbody%7Cjellyfish) · [🗳️ eel — 0 votes](https://github.com/frankiehope333-ctrl/frankiehope333-ctrl/issues/new?title=creature%7Cvote%7Cbody%7Ceel)
 
 🐠 [the menagerie 📖](scrapbook/SCRAPBOOK.md#creatures) fills up as creatures finish
 
