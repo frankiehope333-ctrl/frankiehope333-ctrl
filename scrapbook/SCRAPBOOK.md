@@ -12,7 +12,9 @@
 
 ## 🍾 the bottle wall
 
-<h3 align="center">1 bottles tossed into the sea so far</h3>
+<h3 align="center">2 bottles tossed into the sea so far</h3>
+
+> 🍾 *"What’s in this bottle? a note for you!"* — @jessicaghope-byte · 2026-06-19 · #2
 
 > 🍾 *"Hey beautiful!"* — @jessicaghope-byte · 2026-06-19 · #1
 

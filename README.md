@@ -54,8 +54,9 @@ Some of this profile is serious infrastructure. Some of it is a mermaid. Both ar
 
 <h2 align="center">🍾 Message in a Bottle</h2>
 <div align="center">
-<table><tr><td width="72"><img src="render/bottle_bob.gif" alt="a pixel bottle bobbing in the sea" width="64" align="left"></td><td><b>1 bottles tossed into the sea so far</b><br><a href="https://github.com/frankiehope333-ctrl/frankiehope333-ctrl/issues/new?title=bottle%7Cadd&body=Write%20your%20one-line%20message%20below%20this%20line%20%28~80%20chars%29%2C%20then%20submit.%20It%27ll%20bob%20onto%20Frankie%27s%20profile.%0A%0A">🍾 Toss a bottle into the sea</a> · <a href="scrapbook/SCRAPBOOK.md">open the scrapbook 📖</a></td></tr></table>
+<table><tr><td width="72"><img src="render/bottle_bob.gif" alt="a pixel bottle bobbing in the sea" width="64" align="left"></td><td><b>2 bottles tossed into the sea so far</b><br><a href="https://github.com/frankiehope333-ctrl/frankiehope333-ctrl/issues/new?title=bottle%7Cadd&body=Write%20your%20one-line%20message%20below%20this%20line%20%28~80%20chars%29%2C%20then%20submit.%20It%27ll%20bob%20onto%20Frankie%27s%20profile.%0A%0A">🍾 Toss a bottle into the sea</a> · <a href="scrapbook/SCRAPBOOK.md">open the scrapbook 📖</a></td></tr></table>
 </div>
+<p align="center">🍾 <i>"What’s in this bottle? a note for you!"</i> — @jessicaghope-byte, 2026-06-19</p>
 <p align="center">🍾 <i>"Hey beautiful!"</i> — @jessicaghope-byte, 2026-06-19</p>
 
 ---
