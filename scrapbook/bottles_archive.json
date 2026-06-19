@@ -1,4 +1,11 @@
 {
-  "total_ever": 0,
-  "bottles": []
+  "total_ever": 1,
+  "bottles": [
+    {
+      "msg": "Hey beautiful!",
+      "from": "jessicaghope-byte",
+      "when": "2026-06-19T18:38:41+00:00",
+      "n": 1
+    }
+  ]
 }
