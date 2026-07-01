@@ -1,4 +1,18 @@
 {
-  "total_reefs": 0,
-  "reefs": []
+  "total_reefs": 1,
+  "reefs": [
+    {
+      "id": "2026-06-reef-01",
+      "from": "2026-06-18",
+      "to": "2026-06-30",
+      "reason": "month-end",
+      "contributions": 6,
+      "counts": {
+        "coral": 1,
+        "fish": 1,
+        "kelp": 0
+      },
+      "image": "scrapbook/reefs/2026-06-reef-01.gif"
+    }
+  ]
 }
